@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20c2bb5a-fd91-4ddc-b7f5-b1cc35442fd1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/1/2/12d25002f2f6a842cc968f61160840857803ada1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/4/4/44cbb40038e3b923760133ff9e3e38509c541795" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/5/d/5d305657c77537f711bfc12b78aa3b28e1d6875a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/7/e/7e78f56de3d9ccdebea84c44df12bc0b56395164" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/8/7/879b60c4c681434b42bb8f7cc48cfe62f26062fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/8/7/87cb4f60ae41391d576165b8f0a54a4cf9c16784" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/9/4/94be062dd657782d1ae28eedf6362ae24674931d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/d/1/d16bdd6c77ad80daf21b28427b374e2e6644c445" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/d/f/df770d8f8050cd30f0b8f586005f757ab3d3dbbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/e/3/e347da292c40d252c508703eddff460d1f378f1c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/1/2/12d25002f2f6a842cc968f61160840857803ada1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/4/4/44cbb40038e3b923760133ff9e3e38509c541795" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/5/d/5d305657c77537f711bfc12b78aa3b28e1d6875a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/7/e/7e78f56de3d9ccdebea84c44df12bc0b56395164" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/8/7/879b60c4c681434b42bb8f7cc48cfe62f26062fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/8/7/87cb4f60ae41391d576165b8f0a54a4cf9c16784" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/9/4/94be062dd657782d1ae28eedf6362ae24674931d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/d/1/d16bdd6c77ad80daf21b28427b374e2e6644c445" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/d/f/df770d8f8050cd30f0b8f586005f757ab3d3dbbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/e/3/e347da292c40d252c508703eddff460d1f378f1c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce-microservices/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2iPVhVK0NOZDUIs6nBP6VUe6ElQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/work1/innowise_tasks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20c2bb5a-fd91-4ddc-b7f5-b1cc35442fd1" name="Changes" comment="" />
+      <created>1719392318883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719392318883</updated>
+      <workItem from="1719392319935" duration="1047000" />
+      <workItem from="1719917839382" duration="133000" />
+      <workItem from="1719919409473" duration="314000" />
+      <workItem from="1719919732492" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
